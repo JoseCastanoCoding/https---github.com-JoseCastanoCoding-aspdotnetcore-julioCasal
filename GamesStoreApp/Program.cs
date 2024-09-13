@@ -24,6 +24,13 @@ List<GameDto> games = [
         "Roleplay",
         35.99M,
         new DateOnly(2000,05,01)
+    ), 
+    new(
+        4,
+        "Pinze Panze",
+        "Alma y daddy being silly",
+        100000.55M,
+        new DateOnly(2024,09,13)
     )
 ];
 
